@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4096ba741a764054db770a00ee45eea1, type: 3}
+  m_Name: 2 (Side) - Elena Rossi
+  m_EditorClassIdentifier: 
+  splashArt: {fileID: 21300000, guid: de1b61a5bc71fff4fa5c2e31c8a28c2c, type: 3}
+  voice: {fileID: 11400000, guid: 16c023e0dbe99ac40a5ba59730fac6f2, type: 2}
+  unitClass: {fileID: 0}
+  description: Sister's best friend
+  descriptionLocalizationKey: Character_Elena
+  characterName: 101
+  nationality: 6
+  characteristics: 1600000017000000

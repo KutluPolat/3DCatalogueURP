@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: 5386375c022b29c4cbb4d4611e005a73
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: d094a3afee6453f40866b9629264fa38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat.001
+    second: {fileID: 2100000, guid: 12d33b5547ef3a747ab51707dd62ae58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat.002
+    second: {fileID: 2100000, guid: dcbe1ca90b4a1eb4583d9b360847f410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat.003
+    second: {fileID: 2100000, guid: 692cb48395dc8384db627bec9b14e095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat.004
+    second: {fileID: 2100000, guid: 438d1293672802e4b88fb807ded63f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt
+    second: {fileID: 2100000, guid: 9a0bfe7c49d200e499f1601deeff8b33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.001
+    second: {fileID: 2100000, guid: ac75ca1b1ee8a4e4b98def2878050101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.002
+    second: {fileID: 2100000, guid: 18e18206fc9ff034e8647ce07e7470f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.003
+    second: {fileID: 2100000, guid: 2e1eb977795ff0848b740cf8b580b8bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.004
+    second: {fileID: 2100000, guid: 20d65d34cb806e24a83becff34269756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.005
+    second: {fileID: 2100000, guid: 2398f3725e5f7bf40bbfbdab440867d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.006
+    second: {fileID: 2100000, guid: 7031c96548a75434fbc8d3862e223729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.007
+    second: {fileID: 2100000, guid: b1bfd0d7057c1134d81a8e4d52ad1ed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.008
+    second: {fileID: 2100000, guid: 15c349a40773c734c948ceeedb259a21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.009
+    second: {fileID: 2100000, guid: b6cf5a2e9839e2b409ddec8f34b12a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.010
+    second: {fileID: 2100000, guid: bed65c52c872ac2438e0dcf8cab5ecfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.011
+    second: {fileID: 2100000, guid: 389b50809c1091c4e8737d0e076744ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.012
+    second: {fileID: 2100000, guid: 9ab61f9e8312a094ea2b59b9aea5795a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.013
+    second: {fileID: 2100000, guid: 2ad091069c38b34408eb73e8c75fad25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.014
+    second: {fileID: 2100000, guid: d765e806287232b45a150f1f43f46498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.015
+    second: {fileID: 2100000, guid: 241cf003aa9f3a948ae38cc394d54b20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.016
+    second: {fileID: 2100000, guid: 9ca0b12b1b631d2479a6cc6f016e8279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.017
+    second: {fileID: 2100000, guid: 04ab618982aaebf4fb2791151ee123ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.018
+    second: {fileID: 2100000, guid: d1bac911c11773b48a8edb0c60073568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.019
+    second: {fileID: 2100000, guid: 2ada806c443ea2e4ba5fc38763a57d72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.020
+    second: {fileID: 2100000, guid: 6dc84c3d7e07e4e429508b59fee357bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.021
+    second: {fileID: 2100000, guid: 6884d64f35184d44c8acf254f23764cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.022
+    second: {fileID: 2100000, guid: 271f47469af7093419632464b35ba830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.023
+    second: {fileID: 2100000, guid: 96f962617a8db4d4da40fb31686b0a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.024
+    second: {fileID: 2100000, guid: 8ac962c455e4a8f498d6efdf0e3779ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.025
+    second: {fileID: 2100000, guid: 5f39279584985e047b92f1c5d1b0dc5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.026
+    second: {fileID: 2100000, guid: dcc9657d947ba524f90eec2be262ecb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.027
+    second: {fileID: 2100000, guid: 7e4dc9be5b7da7243951203ed8a3c80a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.028
+    second: {fileID: 2100000, guid: 18d48ecc50eb1434bbf0d62512894478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.029
+    second: {fileID: 2100000, guid: 4641d0d538f5de3488205dd961803857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.030
+    second: {fileID: 2100000, guid: 131db2d79aa66214188bdcca20809c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.031
+    second: {fileID: 2100000, guid: 3123e692e7f1e6349b7f51a9a21c67c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt.032
+    second: {fileID: 2100000, guid: 3393106c19f0ee14c8775fb7231de431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge
+    second: {fileID: 2100000, guid: 96aaa5daff7fe154282d88d8e1529ff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.001
+    second: {fileID: 2100000, guid: f831feb75dff96f4c808ff85312ae7b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.002
+    second: {fileID: 2100000, guid: 5e6e0628a3d40434bb2b242cff185a9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.003
+    second: {fileID: 2100000, guid: facbf53f9af19ec45a0d2483fa495509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.004
+    second: {fileID: 2100000, guid: aaad1e0e0fd7cc34d8c73d7a9d5f1301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.005
+    second: {fileID: 2100000, guid: 4db258ba04899ea47a0743fff1223771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.006
+    second: {fileID: 2100000, guid: 4e11501403e66504886737d8e3ab4953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.007
+    second: {fileID: 2100000, guid: 91f6256e9dbf09643869ba49f5ed8b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.008
+    second: {fileID: 2100000, guid: 17a58ac28f5f58f409f005d58f41e3ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.009
+    second: {fileID: 2100000, guid: ef932aee4b3384c42945162415007f17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.010
+    second: {fileID: 2100000, guid: d4e78e8a0524482439d0a1e9be939d85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.011
+    second: {fileID: 2100000, guid: 53c863c2c7cc5bb44b4c345de4eaa3a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.012
+    second: {fileID: 2100000, guid: c7406d66362af934296deab89641ddf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.013
+    second: {fileID: 2100000, guid: 37cc1e224eb0a6a4ab5b5d176fe56c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.014
+    second: {fileID: 2100000, guid: 15dab7ddf551b754ab750b6dc47476f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.015
+    second: {fileID: 2100000, guid: 22573f94ee3bc1348a5c2ee292a0e559, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.016
+    second: {fileID: 2100000, guid: 5f7c6fb5b5a950c4db1c394aeab63629, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.017
+    second: {fileID: 2100000, guid: e3490a7cdfca7624cb842d388d3df0de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.018
+    second: {fileID: 2100000, guid: f11e8081d306f534d8d8ae80b991921c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.019
+    second: {fileID: 2100000, guid: 78811e10518e9bd4b94c096b762bdf3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.020
+    second: {fileID: 2100000, guid: 6a8edd200c202d34e8083de956552062, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.021
+    second: {fileID: 2100000, guid: b7a773a0638019f4b9dc4c6bb975d6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.022
+    second: {fileID: 2100000, guid: 811df2a93a354a04782875641f8d34a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.023
+    second: {fileID: 2100000, guid: 7cb79f13e05fc584e9d7ac9fb7604f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.024
+    second: {fileID: 2100000, guid: 270590be6758e3848882afaf9632d56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.025
+    second: {fileID: 2100000, guid: 6a5910df7c4c47344934651e90e4be7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.026
+    second: {fileID: 2100000, guid: dae64bc51d193d74484a5a28b2318981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.027
+    second: {fileID: 2100000, guid: fb3a95040d7950f48af4c8933ae6c209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.028
+    second: {fileID: 2100000, guid: 1d49cdcd0dc15d849b39c6bd521cebc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.029
+    second: {fileID: 2100000, guid: 87b43525742ffea44b716719087b112f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphaltEdge.030
+    second: {fileID: 2100000, guid: 76f4b298d150bf84f8ed0fb5ff439b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: c212056d6aa26d54dbdecd8aee68d13e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light.001
+    second: {fileID: 2100000, guid: 4aa2bacefa833cb449508f6c5c1a061e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light.002
+    second: {fileID: 2100000, guid: f10886d380822eb46a70ecca9f82b80f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light.003
+    second: {fileID: 2100000, guid: f7371e963446a964c897b43d45f3226b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light.004
+    second: {fileID: 2100000, guid: c788df47a3d537e45ba87db0657334b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light.005
+    second: {fileID: 2100000, guid: d76bd9f0c2a5f3048a2ee059fe09b6f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line
+    second: {fileID: 2100000, guid: 52a2307cb909df24299658b5145a28a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.001
+    second: {fileID: 2100000, guid: 1f1d115724c9d6048bfa6967cb9d81aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.002
+    second: {fileID: 2100000, guid: a4f4e158ae67b7548a1e2eeca3557151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.003
+    second: {fileID: 2100000, guid: f9c5ec6d8ce6c6843bfb3ea90bd7ce7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.004
+    second: {fileID: 2100000, guid: 515a7488759c84041abb80e9ccd8d70c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.005
+    second: {fileID: 2100000, guid: e7eccf09b6354454383186e5e4598ff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.006
+    second: {fileID: 2100000, guid: 88aae3eb07196194c94035c95a1b9e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.007
+    second: {fileID: 2100000, guid: bf7804bfdc1ad28448f461d24205afbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.008
+    second: {fileID: 2100000, guid: 8e741c036d1f9d44fb1aa633372984ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.009
+    second: {fileID: 2100000, guid: 60934274eb0aafc4e865656903f01309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.010
+    second: {fileID: 2100000, guid: 97d6bf0fcf121e54ebac318c1c94b010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.011
+    second: {fileID: 2100000, guid: c75bb1de68da03b4a9b725eeda6b2a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.012
+    second: {fileID: 2100000, guid: dc496c90f35fbdb4ca508026b2397952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.013
+    second: {fileID: 2100000, guid: 673c48721b9a4e1459c66c166b729da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.014
+    second: {fileID: 2100000, guid: ef0618829af2f3b44892f34a5167b2c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.015
+    second: {fileID: 2100000, guid: c3cfc29f57f2f854c8cfe5fea3d73b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.016
+    second: {fileID: 2100000, guid: 5d6542df4a473174da496ab38d1d4ad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.017
+    second: {fileID: 2100000, guid: 16915e151c81c6343b79290c81839124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.018
+    second: {fileID: 2100000, guid: 210f220ac10ddeb4d92246c4e485b5ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.019
+    second: {fileID: 2100000, guid: d5ac6801975e35c4ea5faabf3289431c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.020
+    second: {fileID: 2100000, guid: 8cefec8e49df9c04998b82a7d4858bce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.021
+    second: {fileID: 2100000, guid: bd2892c54f379db4ab5d124552288e0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.022
+    second: {fileID: 2100000, guid: f17f1ca374200ee40bd6eb363bbf9615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.023
+    second: {fileID: 2100000, guid: 833cd1ff7a3b5f24db028a25e48c713e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.024
+    second: {fileID: 2100000, guid: 229954f5dac9cf349bcd58aef0ae7d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.025
+    second: {fileID: 2100000, guid: 8876532eac2bed541babcea36742bbd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.026
+    second: {fileID: 2100000, guid: 5ed5962b19e9ee54f8f76587e91e576b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.027
+    second: {fileID: 2100000, guid: c60b4998f1c0d2a41b7769e0f2b65e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.028
+    second: {fileID: 2100000, guid: fa33c9c5f554e5a469191400705d0b45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: line.029
+    second: {fileID: 2100000, guid: 9cfa25f9c6631ac4982d78bd7c9b1091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement
+    second: {fileID: 2100000, guid: 260de719544b6124baa97027c1442fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.001
+    second: {fileID: 2100000, guid: db49923b2d66a714091dac61131c53b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.002
+    second: {fileID: 2100000, guid: ce603c6f9306795448f0da61796d95c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.003
+    second: {fileID: 2100000, guid: 54f4c44f41092554999907840c0a03c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.004
+    second: {fileID: 2100000, guid: 29e8a1bda79e2ca45adbbcfa07e44c1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.005
+    second: {fileID: 2100000, guid: fe7a5d7aa84cf6547a14cb8dce0183cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.006
+    second: {fileID: 2100000, guid: 6a9dc63b00f5b6a42bcf8b0932cb6614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.007
+    second: {fileID: 2100000, guid: 3e7e3184e53e36e4ea83201042d449de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.008
+    second: {fileID: 2100000, guid: cd132b16143c5b64fbd4ee5a919b97a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.009
+    second: {fileID: 2100000, guid: 8796901337e59274e817b0d48866c246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.011
+    second: {fileID: 2100000, guid: 90b22c50eebfb034d8d3a6c9cb516467, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.012
+    second: {fileID: 2100000, guid: 1d630055ea875f84c80a2fb91315b9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.013
+    second: {fileID: 2100000, guid: 7d252facac50c2f4fa19bf007363853b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.014
+    second: {fileID: 2100000, guid: 1e02b9796a8083947b646635406d7b9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.015
+    second: {fileID: 2100000, guid: ca2f86770300076418d183952936df9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.016
+    second: {fileID: 2100000, guid: 333f3e2071975f74684370e3df1ea8fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.017
+    second: {fileID: 2100000, guid: 2f0c13aac4a583f4dbcfac6a88951709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.018
+    second: {fileID: 2100000, guid: 4647be94b06b0d9469b2b4eea5069d0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.019
+    second: {fileID: 2100000, guid: 1c0536e53b2fdb547a5b7989b350a417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.020
+    second: {fileID: 2100000, guid: 5ea2aeccc74e5ed4889f1268ad4809e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.021
+    second: {fileID: 2100000, guid: c30b59efaa7dab344b23182da9ce15e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.022
+    second: {fileID: 2100000, guid: 5fff79febb0e98149be8c421d95597f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.023
+    second: {fileID: 2100000, guid: bdc6022ed2d33d447831dcac10fb37d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.024
+    second: {fileID: 2100000, guid: e3134d9eb69207f4486f2833c731d724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.025
+    second: {fileID: 2100000, guid: 4fbc926d315688544b6596c34a387b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.026
+    second: {fileID: 2100000, guid: 3ad1a3bb41b6b264badc95921bab1339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.027
+    second: {fileID: 2100000, guid: aea7b2e1de106304ea9c86dadd77e420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.028
+    second: {fileID: 2100000, guid: 4a57a3a9d7eb1bb4e801f923838dc66a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.029
+    second: {fileID: 2100000, guid: e01ff92836235da46bc7358d37b81151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.030
+    second: {fileID: 2100000, guid: 8acb7e654f30ad14d8525bab13f442bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.031
+    second: {fileID: 2100000, guid: f932441cd3bf0df4aa57ec867da4131e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.032
+    second: {fileID: 2100000, guid: 20fd0443c1bec6346817fb58bca0f339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.033
+    second: {fileID: 2100000, guid: 73ce7178d70bb3f4f8a8b902c23f78fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.034
+    second: {fileID: 2100000, guid: 2bd6bcb0788cfbd44a4d9d57684fd74a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.035
+    second: {fileID: 2100000, guid: 31c07d51c39b5b54cb4ae911f7381428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.036
+    second: {fileID: 2100000, guid: e3b6938a591a88a48ada25391de5d780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.037
+    second: {fileID: 2100000, guid: df45ca3feb8912f46b45ba4728230cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.038
+    second: {fileID: 2100000, guid: 5d67b564cd50dee479dec846582b749e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.039
+    second: {fileID: 2100000, guid: 45c843773992f7e428f05e8ae4688163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.040
+    second: {fileID: 2100000, guid: 0516496c6182cc740b420d35d1735de1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.041
+    second: {fileID: 2100000, guid: d020c60b1e4efb84eb2ffa3f723bf4f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.042
+    second: {fileID: 2100000, guid: 0884d9d82e1aa7840a14779015e624a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.043
+    second: {fileID: 2100000, guid: 3357f87a32343f44590ef3b73edb4504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.044
+    second: {fileID: 2100000, guid: added36bff72b8e43b897f631c18e3e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.045
+    second: {fileID: 2100000, guid: 8743ba7c2574839419a01b8088c6c65d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.046
+    second: {fileID: 2100000, guid: 020f97aa2c5a92c4b9f1520d35bfa568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.047
+    second: {fileID: 2100000, guid: 4cb99d42ec4d4344790ff76b826d623c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.048
+    second: {fileID: 2100000, guid: 5ff7825db6be9b14b85298ae0085f978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.049
+    second: {fileID: 2100000, guid: c423dd0ff6889b547be9225437fe8488, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.050
+    second: {fileID: 2100000, guid: d9b921734104ced43a596cbf839e47e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.051
+    second: {fileID: 2100000, guid: 5da2d8ae157471e43bccf40333a96c61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.052
+    second: {fileID: 2100000, guid: 3d5ae9b59d896b343918fea4f4752101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.053
+    second: {fileID: 2100000, guid: 3c98cd5421e284042be6b1b85225722e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.054
+    second: {fileID: 2100000, guid: 2ec59f180c7d99246b0c188da671749e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.056
+    second: {fileID: 2100000, guid: c698ab6d5a92e0a49a733f9288e5ea86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.057
+    second: {fileID: 2100000, guid: 0e284ff44d2e8a54783a4a2dacd27078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.058
+    second: {fileID: 2100000, guid: 054f9019ffcecbf4185fd7f2cea28d31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.059
+    second: {fileID: 2100000, guid: 90f4643a0abb7a34d999540c61c7f8a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.060
+    second: {fileID: 2100000, guid: bcf58425fbe0e744cb2686269e50f558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.061
+    second: {fileID: 2100000, guid: a384f75334ce794459d323d28d960a99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.062
+    second: {fileID: 2100000, guid: 0b36dfc640176864ebc763a7ea750114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.063
+    second: {fileID: 2100000, guid: 9129622f40968834d971ffaa778436b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement.064
+    second: {fileID: 2100000, guid: 4d994a9d456ff624c8b23abe8e21bb20, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

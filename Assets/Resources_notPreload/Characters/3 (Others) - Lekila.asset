@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4096ba741a764054db770a00ee45eea1, type: 3}
+  m_Name: 3 (Others) - Lekila
+  m_EditorClassIdentifier: 
+  startLevel: 1
+  unitClass: {fileID: 0}
+  splashArt: {fileID: 21300000, guid: d9708d929ec11e444ba4154e1d058a21, type: 3}
+  voice: {fileID: 11400000, guid: 561c4c8911954904b805ab7f042db4ef, type: 2}
+  description: 
+  descriptionLocalizationKey: 
+  characterName: 1000
+  nationality: 5
+  characteristics: 180000000b000000

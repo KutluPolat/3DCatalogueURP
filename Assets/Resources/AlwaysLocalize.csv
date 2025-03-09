@@ -1,0 +1,46 @@
+﻿CHAR ID;CHAR NAMES;KEYS;Turkish;English;Spanish;Portuguese;German;French;Italian;Polish;Russian;ChineseSimplified;ChineseTraditional;Japanese;Korean;Indian;Arabic;Bengali;Indonesian;Thai;Vietnamese
+;;Languages;Türkçe;English;Español;Português;Deutsch;Français;Italiano;Polski;Русский;简体中文;繁體中文;日本語;한국어;हिन्दी;العربية;বাংলা;Bahasa Indonesia;ภาษาไทย;Tiếng Việt
+;;UIButton_Continue;Devam Et;Continue;Continuar;Continuar;Fortfahren;Continuer;Continua;Kontynuuj;Продолжить;继续;繼續;続ける;계속;जारी रखें;متابعة;চালিয়ে যান;Lanjutkan;ดำเนินการต่อ;Tiếp tục
+;;UIButton_NewGame;Yeni Oyun;New Game;Nuevo Juego;Novo Jogo;Neues Spiel;Nouveau Jeu;Nuovo Gioco;Nowa Gra;Новая игра;新游戏;新遊戲;新しいゲーム;새 게임;नया खेल;لعبة جديدة;নতুন খেলা;Game Baru;เกมใหม่;Trò chơi mới
+;;UIButton_LoadGame;Kaydı Yükle;Load Game;Cargar Partida;Carregar Jogo;Spiel laden;Charger Partie;Carica Gioco;Wczytaj grę;Загрузить игру;加载游戏;加載遊戲;ゲームをロードする;게임 로드;खेल लोड करें;تحميل اللعبة;গেম লোড করুন;Muat Game;โหลดเกม;Tải trò chơi
+;;UIButton_Options;Ayarlar;Options;Opciones;Opções;Optionen;Options;Opzioni;Opcje;Настройки;选项;選項;オプション;옵션;विकल्प;خيارات;বিকল্প;Opsi;ตัวเลือก;Tùy chọn
+;;UIButton_Credits;Katkıda Bulunanlar;Credits;Créditos;Créditos;Credits;Crédits;Crediti;Twórcy;Создатели;制作人员;製作人員;クレジット;제작진;श्रेय;الاعتمادات;ক্রেডিটস;Kredit;เครดิต;Tín dụng
+;;Close;Kapat;Close;Cerrar;Fechar;Schließen;Fermer;Chiudi;Zamknij;Закрыть;关闭;關閉;閉じる;닫기;बंद करें;إغلاق;বন্ধ করুন;Tutup;ปิด;Đóng
+;;Options_Music;Müzik;Music;Música;Música;Musik;Musique;Musica;Muzyka;Музыка;音乐;音樂;音楽;음악;संगीत;موسيقى;সঙ্গীত;Musik;เพลง;Âm nhạc
+;;Options_Sounds;Sesler;Sounds;Sonidos;Sons;Sounds;Sons;Suoni;Dźwięki;Звуки;声音;聲音;サウンド;사운드;ध्वनियाँ;أصوات;শব্দ;Suara;เสียง;Âm thanh
+;;Options_Voice;Konuşma Sesi;Voice;Voz;Voz;Stimme;Voix;Voce;Głos;Голос;声音;聲音;声;목소리;आवाज़;صوت;কণ্ঠস্বর;Suara;เสียงพูด;Giọng nói
+;;Options_VFX;Efektler;VFX;VFX;VFX;VFX;VFX;VFX;VFX;VFX;视觉效果;視覺效果;VFX;시각 효과;वीएफएक्स;المؤثرات المرئية;ভিএফএক্স;VFX;เอฟเฟกต์ภาพ;Hiệu ứng hình ảnh
+;;Options_Graphics;Grafik;Graphics;Gráficos;Gráficos;Grafik;Graphismes;Grafica;Grafika;Графика;图形;圖形;グラフィック;그래픽;ग्राफ़िक्स;الرسوميات;গ্রাফিক্স;Grafik;กราฟิก;Đồ họa
+;;Options_VeryLow;Çok Düşük;Very Low;Muy Bajo;Muito Baixo;Sehr Niedrig;Très Bas;Molto Basso;Bardzo Niski;Очень низко;非常低;非常低;非常に低い;매우 낮음;बहुत कम;منخفض جدا;খুব কম;Sangat Rendah;ต่ำมาก;Rất thấp
+;;Options_Low;Düşük;Low;Bajo;Baixo;Niedrig;Bas;Basso;Niski;Низко;低;低;低い;낮음;कम;منخفض;কম;Rendah;ต่ำ;Thấp
+;;Options_Medium;Orta;Medium;Medio;Médio;Mittel;Moyen;Medio;Średni;Средний;中;中;中くらい;중간;मध्यम;متوسط;মাঝারি;Sedang;ปานกลาง;Trung bình
+;;Options_High;Yüksek;High;Alto;Alto;Hoch;Élevé;Alto;Wysoki;Высокий;高;高;高い;높음;उच्च;مرتفع;উচ্চ;Tinggi;สูง;Cao
+;;Options_VeryHigh;Çok Yüksek;Very High;Muy Alto;Muito Alto;Sehr Hoch;Très Élevé;Molto Alto;Bardzo Wysoki;Очень высокий;非常高;非常高;非常に高い;매우 높음;बहुत उच्च;مرتفع جدا;খুব উচ্চ;Sangat Tinggi;สูงมาก;Rất cao
+;;Options_Ultra;Ultra;Ultra;Ultra;Ultra;Ultra;Ultra;Ultra;Ultra;Ультра;终极;終極;ウルトラ;울트라;अल्ट्रा;فائق;আল্ট্রা;Ultra;อัลตร้า;Cực đại
+;;Options_VSync;Dikey Eşitleme;VSync;VSync;VSync;VSync;VSync;VSync;VSync;Вертикальная синхронизация;垂直同步;垂直同步;VSync;VSync;वीसिंक;مزامنة عمودية;VSync;VSync;VSync;VSync
+;;Options_Vibrations;Titreşim;Vibrations;Vibraciones;Vibrações;Vibrationen;Vibrations;Vibrazioni;Wibracje;Вибрация;振动;振動;振動;진동;कंपन;الاهتزازات;কাঁপুনি;Getaran;การสั่นสะเทือน;Rung
+;;Options_Language;Dil;Language;Idioma;Idioma;Sprache;Langue;Lingua;Język;Язык;语言;語言;言語;언어;भाषा;اللغة;ভাষা;Bahasa;ภาษา;Ngôn ngữ
+;;Off;Kapalı;Off;Apagado;Desligado;Aus;Éteint;Spento;Wył.;Выкл.;关;關;オフ;끔;बंद;إيقاف تشغيل;বন্ধ;Mati;ปิด;Tắt
+;;On;Açık;On;Encendido;Ligado;An;Allumé;Acceso;Wł.;Вкл.;开;開;オン;켜짐;चालू;تشغيل;চালু;Menyala;เปิด;Bật
+;;Options_DoubleSync;İkili Dikey Eşitleme (1/2 FPS);Double VSync (1/2 FPS);VSync Doble (1/2 FPS);VSync Duplo (1/2 FPS);Doppeltes VSync (1/2 FPS);Double VSync (1/2 FPS);Doppio VSync (1/2 FPS);Podwójny VSync (1/2 FPS);Двойной VSync (1/2 FPS);双倍垂直同步 (1/2 FPS);雙倍垂直同步 (1/2 FPS);ダブルVSync (1/2 FPS);더블 VSync (1/2 FPS);डबल वी-सिंक (1/2 FPS);مزامنة عمودية مزدوجة (1/2 FPS);ডাবল ভি-সিঙ্ক (1/2 FPS);VSync Ganda (1/2 FPS);VSync สองเท่า (1/2 FPS);VSync Kép (1/2 FPS)
+;;Options_TripleSync;Üçlü Dikey Eşitleme (1/3 FPS);Triple VSync (1/3 FPS);VSync Triple (1/3 FPS);VSync Triplo (1/3 FPS);Dreifaches VSync (1/3 FPS);Triple VSync (1/3 FPS);Triplo VSync (1/3 FPS);Potrójny VSync (1/3 FPS);Тройной VSync (1/3 FPS);三倍垂直同步 (1/3 FPS);三倍垂直同步 (1/3 FPS);トリプルVSync (1/3 FPS);트리플 VSync (1/3 FPS);ट्रिपल वी-सिंक (1/3 FPS);مزامنة عمودية ثلاثية (1/3 FPS);ট্রিপল ভি-সিঙ্ক (1/3 FPS);VSync Tiga Kali (1/3 FPS);VSync สามเท่า (1/3 FPS);VSync Ba (1/3 FPS)
+;;Options_QuadrupleSync;Dörtlü Dikey Eşitleme (1/4 FPS);Quadruple VSync (1/4 FPS);VSync Cuádruple (1/4 FPS);VSync Quádruplo (1/4 FPS);Vierfaches VSync (1/4 FPS);Quadruple VSync (1/4 FPS);Quadruplo VSync (1/4 FPS);Poczwórny VSync (1/4 FPS);Четверной VSync (1/4 FPS);四倍垂直同步 (1/4 FPS);四倍垂直同步 (1/4 FPS);クアドラプルVSync (1/4 FPS);쿼드러플 VSync (1/4 FPS);क्वाड्रपल वी-सिंक (1/4 FPS);مزامنة عمودية رباعية (1/4 FPS);কোয়াড্রপল ভি-সিঙ্ক (1/4 FPS);VSync Empat Kali (1/4 FPS);VSync สี่เท่า (1/4 FPS);VSync Bốn Lần (1/4 FPS)
+;;time;Süre;Time;Tiempo;Tempo;Zeit;Temps;Tempo;Czas;Время;时间;時間;時間;시간;समय;وقت;সময়;Waktu;เวลา;Thời gian
+;;abbr_second;sn;s;s;s;s;s;s;s;с;秒;秒;秒;초;से;ث;সে;dtk;วิ;s
+;;abbr_minute;dk;m;m;m;min;min;m;min;мин;分;分;分;분;मि;د;মি;mnt;น.;p
+;;abbr_hour;sa;h;h;h;h;h;h;h;ч;时;時;時;시;घं;س;ঘ.;j;ชม.;h
+;;Options_FPSLimit;FPS Limiti;FPS Limit;Límite de FPS;Limite de FPS;FPS-Limit;Limite FPS;Limite FPS;Limit FPS;Ограничение FPS;FPS 限制;FPS 限制;FPS 制限;FPS 제한;एफपीएस सीमा;حد FPS;এফপিএস সীমা;Batas FPS;จำกัด FPS;Giới hạn FPS
+;;unlimited;Sınırsız;Unlimited;Ilimitado;Ilimitado;Unbegrenzt;Illimité;Illimitato;Nieograniczony;Неограниченный;无限制;無限制;無制限;제한 없음;असीमित;غير محدود;সীমাহীন;Tak Terbatas;ไม่จำกัด;Không giới hạn
+;;clickToNext;SONRAKİ İÇİN TIKLA;CLICK TO NEXT;HAZ CLIC PARA CONTINUAR;CLIQUE PARA AVANÇAR;KLICKEN SIE WEITER;CLIQUEZ POUR CONTINUER;FAI CLIC PER CONTINUARE;KLIKNIJ, ABY PRZEJŚĆ DALEJ;НАЖМИТЕ, ЧТОБЫ ПРОДОЛЖИТЬ;点击继续;點擊繼續;次に進むにはクリックしてください;다음으로 진행하려면 클릭하세요;अगले पर क्लिक करें;انقر للمتابعة;পরবর্তী এ ক্লিক করুন;KLIK UNTUK LANJUT;คลิกเพื่อดำเนินการต่อ;NHẤP ĐỂ TIẾP TỤC
+;;yes;EVET;YES;SÍ;SIM;JA;OUI;SÌ;TAK;ДА;是;是;はい;예;हाँ;نعم;হ্যাঁ;YA;ใช่;VÂNG
+;;no;HAYIR;NO;NO;NÃO;NEIN;NON;NO;NIE;НЕТ;否;否;いいえ;아니요;नहीं;لا;না;TIDAK;ไม่;KHÔNG
+;;areUSure;EMIN MİSİN?;ARE YOU SURE?;¿ESTÁS SEGURO?;VOCÊ TEM CERTEZA?;SIND SIE SICH SICHER?;ÊTES-VOUS SÛR?;SEI SICURO?;CZY JESTEŚ PEWNY?;ВЫ УВЕРЕНЫ?;你确定吗？;你確定嗎？;本当にいいですか？;정말 확신합니까?;क्या आपको यकीन है?;هل أنت متأكد؟;আপনি কি নিশ্চিত?;ANDA YAKIN?;คุณแน่ใจไหม?;BẠN CÓ CHẮC KHÔNG?
+;;quit;OYUNDAN ÇIK;QUIT GAME;SALIR DEL JUEGO;SAIR DO JOGO;SPIEL BEENDEN;QUITTER LE JEU;ESCI DAL GIOCO;WYJDŹ Z GRY;ВЫЙТИ ИЗ ИГРЫ;退出游戏;退出遊戲;ゲームを終了する;게임을 종료합니다;खेल छोड़ें;إلغاء اللعبة;গেম ত্যাগ করুন;KELUAR DARI GAME;ออกจากเกม;THOÁT TRÒ CHƠI
+;;quickSave;HIZLI KAYIT;QUICK SAVE;GUARDADO RÁPIDO;SALVAMENTO RÁPIDO;SCHNELL SPEICHERN;SAUVEGARDE RAPIDE;SALVATAGGIO RAPIDO;SZYBKIE ZAPISANIE;БЫСТРОЕ СОХРАНЕНИЕ;快速保存;快速保存;クイックセーブ;빠른 저장;त्वरित सहेजें;حفظ سريع;দ্রুত সংরক্ষণ;SIMPAN CEPAT;บันทึกอย่างรวดเร็ว;LƯU NHANH
+;;quitToMenu;ANA MENÜ;MAIN MENU;MENÚ PRINCIPAL;MENU PRINCIPAL;HAUPTMENÜ;MENU PRINCIPAL;MENU PRINCIPALE;MENU GŁÓWNE;ГЛАВНОЕ МЕНЮ;主菜单;主選單;メインメニュー;메인 메뉴;मुख्य मेनू;القائمة الرئيسية;প্রধান মেনু;MENU UTAMA;เมนูหลัก;MENU CHÍNH
+;;saved;KAYDEDİLDİ;SAVED;GUARDADO;SALVO;GESPEICHERT;ENREGISTRÉ;SALVATO;ZAPISANO;СОХРАНЕНО;已保存;已保存;保存されました;저장됨;सहेजा गया;تم الحفظ;সংরক্ষিত;TERSIMPAN;บันทึกแล้ว;ĐÃ LƯU
+;;supportMe;LÜTFEN BENİ DESTEKLE;PLEASE SUPPORT ME;POR FAVOR, APOYA ME;POR FAVOR, APOIE-ME;BITTE UNTERSTÜTZEN SIE MICH;S'IL VOUS PLAÎT SOUTENEZ-MOI;PER FAVORE SUPPORTAMI;PROSZĘ, WSPIERAJ MNIE;ПОЖАЛУЙСТА, ПОДДЕРЖИТЕ МЕНЯ;请支持我;請支持我;どうぞ私を支援してください;제발 저를 지원해주세요;कृपया मेरा समर्थन करें;يرجى دعمي;দয়া করে আমাকে সমর্থন করুন;SILAKAN DUKUNG SAYA;กรุณาสนับสนุนฉัน;XIN HÃY HỖ TRỢ TÔI
+;;developer;GELİŞTİRİCİ;DEVELOPER;DESARROLLADOR;DESENVOLVEDOR;ENTWICKLER;DÉVELOPPEUR;SVILUPPATORE;DEWELOPER;РАЗРАБОТЧИК;开发者;開發者;開発者;개발자;डेवलपर;مطور;ডেভেলপার;PENGEMBANG;นักพัฒนา;NHÀ PHÁT TRIỂN
+;;happyNewYears;MUTLU YILLAR!;HAPPY NEW YEARS!;¡FELIZ AÑO NUEVO!;FELIZ ANO NOVO!;FROHES NEUES JAHR!;BONNE ANNÉE!;BUON ANNO!;SZCZĘŚLIWEGO NOWEGO ROKU!;С НОВЫМ ГОДОМ!;新年快乐！;新年快樂！;新年おめでとうございます！;새해 복 많이 받으세요!;नववर्ष की शुभकामनाएं!;سنة جديدة سعيدة!;শুভ নববর্ষ!;SELAMAT TAHUN BARU!;สวัสดีปีใหม่!;CHÚC MỪNG NĂM MỚI!
+;;bonusContent;Bonus İçerik;Bonus Content;Contenido Extra;Conteúdo Bônus;Bonusinhalt;Contenu Bonus;Contenuto Extra;Treść Bonusowa;Дополнительный Контент;额外内容;額外內容;ボーナスコンテンツ;보너스 콘텐츠;अतिरिक्त सामग्री;محتوى إضافي;অতিরিক্ত বিষয়বস্তু;Konten Bonus;เนื้อหาโบนัส;Nội Dung Thưởng
+;;toBeContinue;DEVAM EDECEK;TO BE CONTINUE;CONTINUARÁ;CONTINUA;FORTSETZUNG FOLGT;À SUIVRE;CONTINUA;CIĄG DALSZY NASTĄPI;ПРОДОЛЖЕНИЕ СЛЕДУЕТ;未完待续;未完待續;続く;계속됩니다;जारी रहेगा;يتبع;চলবে;BERSAMBUNG;มีต่อ;TIẾP TỤC
